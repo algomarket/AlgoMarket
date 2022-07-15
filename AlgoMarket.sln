@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoMarket.WPF", "AlgoMarket.WPF\AlgoMarket.WPF.csproj", "{13606EBD-D8F3-4BB0-A217-E2D17D217F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13606EBD-D8F3-4BB0-A217-E2D17D217F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13606EBD-D8F3-4BB0-A217-E2D17D217F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13606EBD-D8F3-4BB0-A217-E2D17D217F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13606EBD-D8F3-4BB0-A217-E2D17D217F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BD0ED6-F8C7-4CC4-8711-E47FC40D439E}
+	EndGlobalSection
+EndGlobal
